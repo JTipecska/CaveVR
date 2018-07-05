@@ -1,0 +1,3 @@
+start_vrpn
+
+./exe/MyProject_server /sw/config/mlib/cave_1_multicast.conf

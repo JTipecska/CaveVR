@@ -1,0 +1,4 @@
+/home/ga54zof/tutorial_2_cave/example_project/build/CMakeFiles/edit_cache.dir
+/home/ga54zof/tutorial_2_cave/example_project/build/CMakeFiles/rebuild_cache.dir
+/home/ga54zof/tutorial_2_cave/example_project/build/CMakeFiles/MyProject_server.dir
+/home/ga54zof/tutorial_2_cave/example_project/build/CMakeFiles/MyProject.dir

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir -p build
+cd build && cmake -C ../user.cmake .. &&  cmake --build .
+cd ..
